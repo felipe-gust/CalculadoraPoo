@@ -1,0 +1,8 @@
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.exe.config
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.exe
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.pdb
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csproj.AssemblyReference.cache
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csproj.SuggestedBindingRedirects.cache
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.exe
+C:\workspace-csharp\Curso-BaltaIO\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.pdb
